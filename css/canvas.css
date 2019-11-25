@@ -1,0 +1,10 @@
+div#container {
+}
+
+div#canvas {
+    display: flex;
+    align-items: center; /* 縦方向の中央揃え */
+    justify-content: center; /* 横方向の中央揃え */
+    width: 100vw;
+    height: 100vh;
+}
